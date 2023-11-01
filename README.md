@@ -29,6 +29,7 @@ README.md
 README.md
 #### Lab Work 3
 README.md
+[![Watch the video](https://img.youtube.com/vi/KhUohoSgrD4/hqdefault.jpg)](https://www.youtube.com/embed/KhUohoSgrD4)
 #### Lab Work 4
 README.md
 #### Lab Work 5
