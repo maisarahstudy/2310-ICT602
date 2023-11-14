@@ -23,7 +23,6 @@ README.md
 README.md
 #### Lab Work 1
 README.md
-[LAB 1 ICT602 Documentation By BeetleJuice.pdf](https://github.com/addff/2310-ICT602/files/13345457/LAB.1.ICT602.Documentation.By.BeetleJuice.pdf)
 #### Lab Work 2
 README.md
 #### Lab Work 3
