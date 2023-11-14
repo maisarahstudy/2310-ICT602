@@ -19,9 +19,7 @@ README.md
 #### Lab Work 5
 README.md
 
-## M3CS2666A
-README.md
-### Team 1 - Solidariti
+### Team 2 - BeetleJuice
 README.md
 #### Lab Work 1
 README.md
