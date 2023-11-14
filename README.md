@@ -19,16 +19,4 @@ README.md
 #### Lab Work 5
 README.md
 
-### Team 2 - BeetleJuice
-README.md
-#### Lab Work 1
-README.md
-#### Lab Work 2
-README.md
-#### Lab Work 3
-README.md
-#### Lab Work 4
-README.md
-#### Lab Work 5
-README.md
 
