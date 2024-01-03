@@ -21,8 +21,7 @@ FAQ Installation Flutter
 
 4. What are the possible errors that a user might encounter during the installation?
 
-    The most common error is the device cannot detect Visual Studio Code because Visual 
-    Studio is not installed and cannot locate Android SDK.
+   The most common error is the device cannot detect Visual Studio Code because Visual Studio is not installed and cannot locate Android SDK.
     
 
 
