@@ -6,7 +6,7 @@ FAQ Installation Flutter
    - To install Flutter, the required hardware requirements are a minimum of 8GB RAM, 
        display resolution of 1366 x 768 pixels and a total of 4GB free disk space.
 
-2. What are the hardware requirements for installing flutter?
+2. What are the software requirements for installing flutter?
 
    Software requirements:
    - Flutter supports 64-bit version of Microsoft Windows 10 or later. 
