@@ -4,5 +4,5 @@
 - RUSYDAN FAWWAZ (2022855926)
 - AFIQ AIMAN (2022856056)
 
-- [a link](https://github.com/ipinzr/firebase_demo.git)
-  Lab Full CRUD
+- [Lab Full (1-9) CRUD-google signin](https://github.com/ipinzr/firebase_demo.git)
+ 
